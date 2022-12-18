@@ -1,0 +1,17 @@
+C:\Users\Umut Can Arda\source\repos\LunaticSky2 Login Protector\LunaticSky2 Login Protector\obj\Debug\net6.0-windows\LunaticSky2 Login Protector.csproj.AssemblyReference.cache
+C:\Users\Umut Can Arda\source\repos\LunaticSky2 Login Protector\LunaticSky2 Login Protector\obj\Debug\net6.0-windows\LunaticSky2_Login_Protector.Form1.resources
+C:\Users\Umut Can Arda\source\repos\LunaticSky2 Login Protector\LunaticSky2 Login Protector\obj\Debug\net6.0-windows\LunaticSky2 Login Protector.csproj.GenerateResource.cache
+C:\Users\Umut Can Arda\source\repos\LunaticSky2 Login Protector\LunaticSky2 Login Protector\obj\Debug\net6.0-windows\LunaticSky2 Login Protector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umut Can Arda\source\repos\LunaticSky2 Login Protector\LunaticSky2 Login Protector\obj\Debug\net6.0-windows\LunaticSky2 Login Protector.AssemblyInfoInputs.cache
+C:\Users\Umut Can Arda\source\repos\LunaticSky2 Login Protector\LunaticSky2 Login Protector\obj\Debug\net6.0-windows\LunaticSky2 Login Protector.AssemblyInfo.cs
+C:\Users\Umut Can Arda\source\repos\LunaticSky2 Login Protector\LunaticSky2 Login Protector\obj\Debug\net6.0-windows\LunaticSky2 Login Protector.csproj.CoreCompileInputs.cache
+C:\Users\Umut Can Arda\source\repos\LunaticSky2 Login Protector\LunaticSky2 Login Protector\bin\Debug\net6.0-windows\LunaticSky2 Login Protector.exe
+C:\Users\Umut Can Arda\source\repos\LunaticSky2 Login Protector\LunaticSky2 Login Protector\bin\Debug\net6.0-windows\LunaticSky2 Login Protector.deps.json
+C:\Users\Umut Can Arda\source\repos\LunaticSky2 Login Protector\LunaticSky2 Login Protector\bin\Debug\net6.0-windows\LunaticSky2 Login Protector.runtimeconfig.json
+C:\Users\Umut Can Arda\source\repos\LunaticSky2 Login Protector\LunaticSky2 Login Protector\bin\Debug\net6.0-windows\LunaticSky2 Login Protector.dll
+C:\Users\Umut Can Arda\source\repos\LunaticSky2 Login Protector\LunaticSky2 Login Protector\bin\Debug\net6.0-windows\LunaticSky2 Login Protector.pdb
+C:\Users\Umut Can Arda\source\repos\LunaticSky2 Login Protector\LunaticSky2 Login Protector\obj\Debug\net6.0-windows\LunaticSky2 Login Protector.dll
+C:\Users\Umut Can Arda\source\repos\LunaticSky2 Login Protector\LunaticSky2 Login Protector\obj\Debug\net6.0-windows\refint\LunaticSky2 Login Protector.dll
+C:\Users\Umut Can Arda\source\repos\LunaticSky2 Login Protector\LunaticSky2 Login Protector\obj\Debug\net6.0-windows\LunaticSky2 Login Protector.pdb
+C:\Users\Umut Can Arda\source\repos\LunaticSky2 Login Protector\LunaticSky2 Login Protector\obj\Debug\net6.0-windows\LunaticSky2 Login Protector.genruntimeconfig.cache
+C:\Users\Umut Can Arda\source\repos\LunaticSky2 Login Protector\LunaticSky2 Login Protector\obj\Debug\net6.0-windows\ref\LunaticSky2 Login Protector.dll
