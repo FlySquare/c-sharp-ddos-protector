@@ -8,4 +8,4 @@ It automatically listens to all the ips in the ** ips.txt** file in the C:/ disk
 
 ## Images
 
-![Screen]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://raw.githubusercontent.com/FlySquare/c-sharp-ddos-protector/master/images/screenshot.png))
+![Screen](https://raw.githubusercontent.com/FlySquare/c-sharp-ddos-protector/master/images/screenshot.png)
