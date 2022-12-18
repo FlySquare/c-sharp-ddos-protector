@@ -7,3 +7,5 @@ C:/ Diski içerinde bulunan **ips.txt** dosyasında bulunan tüm ipleri otomatik
 It automatically listens to all the ips in the ** ips.txt** file in the C:/ disk and automatically blocks it through the firewall. In this way, if you constantly update the ips.txt or if you automatically print the ips of the people who attack you to the **ips.txt** file, it will be blocked every 1 second. If you write the ip address in the UnBan section, if there is a banned ip, it will be unbanned directly.
 
 ## Images
+
+![Screen]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://raw.githubusercontent.com/FlySquare/c-sharp-ddos-protector/master/images/screenshot.png))
